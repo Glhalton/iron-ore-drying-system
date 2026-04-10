@@ -31,5 +31,5 @@ status do sistema (“On” ou “Off”) deve ser informado em um LCD.
 
 # Instaladores dos softwares
 
-[Link para o drive](https://drive.google.com/drive/folders/1jardjmx-xT0g1bsHCJoWER2vJd0JaErH)
-[PICSimLab](https://sourceforge.net/projects/picsim/)
+- [Link para o drive](https://drive.google.com/drive/folders/1jardjmx-xT0g1bsHCJoWER2vJd0JaErH)
+- [PICSimLab](https://sourceforge.net/projects/picsim/)
