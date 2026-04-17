@@ -3,8 +3,9 @@
     <type>com.microchip.mplab.nbide.embedded.makeproject</type>
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
-            <name>Timer0_1s</name>
-            <name>Timer0</name>
+            <name>LCD</name>
+            <name>TecMatricial</name>
+            <name>Debouncing</name>
             <name>DigitalPorts</name>
             <creation-uuid>13b04301-0180-4e89-929c-7dfe353f1797</creation-uuid>
             <make-project-type>0</make-project-type>
@@ -14,7 +15,9 @@
             <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
-            <sourceRootList/>
+            <sourceRootList>
+                <sourceRootElem>.</sourceRootElem>
+            </sourceRootList>
             <confList>
                 <confElem>
                     <name>default</name>

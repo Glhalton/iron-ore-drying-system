@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=iron-ore-drying-system
+PROJECTNAME=LCD.X
 
 # Active Configuration
 DEFAULTCONF=default
